@@ -1,5 +1,5 @@
 var assert = require('assert')
-var happynumbers = require('./happynumbers')
+var happynumbers = require('./happy-numbers')
 
 for (var i = 1; i <= 300; i++) {
   if (i === 1 ||
