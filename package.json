@@ -8,9 +8,8 @@
     "test": "node test.js"
   },
   "contributors": [
-  { "name" : "thehobbit85",
-    "email" : "thehobbit85@gmail.com"
-  }
+  { "name" : "Eliran Zach","email" : "thehobbit85@gmail.com"},
+  { "name" : "Nadav Ivgi", "email" : "npm@shesek.info"}
   ],
   "license": "ISC"
 }
