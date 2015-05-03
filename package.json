@@ -1,0 +1,16 @@
+{
+  "name": "happyNumbers",
+  "version": "1.0.0",
+  "description": "Will tell you if a number is a Happy number or not in only 117 characters!
+  (133 if you include 'module.exports=') - Code Golf FTW",
+  "main": "happynumbers.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "contributors": [
+  { "name" : "thehobbit85",
+    "email" : "thehobbit85@gmail.com"
+  }
+  ],
+  "license": "ISC"
+}
